@@ -45,19 +45,11 @@ Each module provides in-depth information about its purpose, applications, and s
 |     |                       Module                       |                            About                             | What's in this module                                                                                                                 |                                                         Linked Module                                                          |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: |
 | 00  |                     IAAC_Templates                      |           Introduction of how to the template.           | Templates | [Intro to Programming Languages and Tools of the Trade](/1-getting-started-lessons/1-intro-to-programming-languages/README.md) |
-| 01  |                     IAAC_Robots                     |             This module focuses on various robotic platforms available for use. Includes different control mechanisms and configurations.             | - Robotic  Arm
-- Mobile Robot
-- Drone                                                 |                            [Intro to GitHub](/1-getting-started-lessons/2-github-basics/README.md)                             |
-| 02  |                     IAAC_Hardware_Drivers                      |                             Accessibility                              | - Camera
-- Lidar                                                                                                  |                       [Accessibility Fundamentals](/1-getting-started-lessons/3-accessibility/README.md)                       |
-| 03  |                        IAAC_Applications                        |                         JavaScript Data Types                          | - 3D Reconstruction
-- Navigation                                                                                                   |                                       [Data Types](/2-js-basics/1-data-types/README.md)                                        |
-| 04  |                        IAAC_Codebase                        |                         Functions and Methods                          | - Computer Vision-Python
-- Machine Learning                                                               |                              [Functions and Methods](/2-js-basics/2-functions-methods/README.md)                               |
-| 05  |                        IAAC_Tutorials                        |                         Functions and Methods                          | - Linux
-- Docker
-- Virtual Environment
-- Ros
+| 01  |                     IAAC_Robots                     |             This module focuses on various robotic platforms available for use. Includes different control mechanisms and configurations.             | - Robotic  Arm - Mobile Robot - Drone                                                 |                            [Intro to GitHub](/1-getting-started-lessons/2-github-basics/README.md)                             |
+| 02  |                     IAAC_Hardware_Drivers                      |                             Accessibility                              | - Camera - Lidar                                                                                                  |                       [Accessibility Fundamentals](/1-getting-started-lessons/3-accessibility/README.md)                       |
+| 03  |                        IAAC_Applications                        |                         JavaScript Data Types                          | - 3D Reconstruction - Navigation                                                                                                   |                                       [Data Types](/2-js-basics/1-data-types/README.md)                                        |
+| 04  |                        IAAC_Codebase                        |                         Functions and Methods                          | - Computer Vision-Python - Machine Learning                                                               |                              [Functions and Methods](/2-js-basics/2-functions-methods/README.md)                               |
+| 05  |                        IAAC_Tutorials                        |                         Functions and Methods                          | - Linux - Docker - Virtual Environment - Ros
                                                                 |                              [Functions and Methods](/2-js-basics/2-functions-methods/README.md)                               |
 
 
