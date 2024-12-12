@@ -1,5 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/Shu980101/IAAC-Libraries-Tools/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -52,15 +52,6 @@ Each module provides in-depth information about its purpose, applications, and s
 | 03  |                        IAAC-applications                        |                         This module focuses on the various robotic applications that can be developed using the IAAC framework.                           | - 3D Reconstruction<br/> - Navigation                                                                                                   |                                       [Link](IAAC-applications)                                            |
 | 04  |                        IAAC-codebase                        |                         The IAAC_Codebase module provides a collection of software tools, libraries, and frameworks essential for developing robotic applications.                          | - Computer Vision-Python<br/> - Machine Learning                                                               |                              [Link](IAAC-codebase)                               |
 | 05  |                        IAAC-tutorials                        |                         This module offers comprehensive educational resources for getting started and mastering the robotics ecosystem.                           | - Linux<br/> - Docker<br/> - Virtual Environment<br/> - Ros<br/>|                              [Link](IAAC-tutorials)                               |
-
-
-## 🧭 Offline access 
-
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
-
-## 📘 PDF
-
-A PDF of all of the lessons can be found [here]().
 
 
 ## 🎒 Most recent updated Curricula
