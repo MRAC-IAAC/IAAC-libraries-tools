@@ -6,6 +6,7 @@
 
 # IAAC-Libraries-Tools
 
+Author: [Shu Xiao](https://github.com/Shu980101)
 The IAAC GitHub Organization is a unified repository ecosystem for interdisciplinary collaboration in robotics, computer vision, and design. It includes standardized repository templates, drivers for cameras (ZED Mini, Kinect Azure, etc.), LiDARs (RPLIDAR, Livox), and ROS integration. Resources support robotic platforms like ARM robots (offline, online, and real-time control), TurtleBots, Husky A100, and drones. Key applications include 3D reconstruction, navigation, and Python libraries for computer vision, machine learning, and point cloud processing. Comprehensive tutorials cover Linux, Docker, ROS, and virtual environments. This platform fosters innovation and efficiency, advancing IAAC’s cutting-edge research and development initiatives.
 
 
