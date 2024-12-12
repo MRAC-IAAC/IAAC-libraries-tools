@@ -1,9 +1,3 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/Shu980101/IAAC-Libraries-Tools/graphs/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 # IAAC-Libraries-Tools
 
 Author: [Shu Xiao](https://github.com/Shu980101)<br/>
@@ -62,7 +56,3 @@ Our team updated our curricula! Check out:
 - **NEW** -[ROS](IAAC-tutorials)
 - **NEW** -[Mobile Robot](IAAC-hardware-drivers)
 
-
-## License
-
-This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
