@@ -13,12 +13,12 @@ The IAAC GitHub Organization is a unified repository ecosystem for interdiscipli
 
 This page outlines six essential modules developed at IAAC that form the backbone of our robotics ecosystem:
 
-- 00_IAAC_Templates
-- 01_IAAC_Robots
-- 02_IAAC_Hardware_Drivers
-- 03_IAAC_Applications
-- 04_IAAC_Codebase
-- 05_IAAC_Tutorials
+- IAAC-templates
+- IAAC-robots
+- IAAC-hardware-drivers
+- IAAC-applications
+- IAAC-codebase
+- IAAC-tutorials
 
 These six modules together provide a comprehensive framework for building, deploying, and managing robotic systems. They encompass all aspects of robotics development, from hardware integration to advanced software tools, helping users design and implement cutting-edge robotics applications efficiently and effectively.
 
@@ -44,12 +44,12 @@ Each module provides in-depth information about its purpose, applications, and s
 
 |     |                       Module                       |                            About                             | What's in this module                                                                                                                 |                                                         Linked Module                                                          |
 | :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: |
-| 00  |                     IAAC_Templates                      |           Introduction of how to the template.           | Templates | [Link](00_IAAC_Templates)   |
-| 01  |                     IAAC_Robots                     |             This module focuses on various robotic platforms available for use. Includes different control mechanisms and configurations.             | - Robotic  Arm<br/> - Mobile Robot<br/> - Drone                                                 |                            [Link](01_IAAC_Robots)                               |
-| 02  |                     IAAC_Hardware_Drivers                      |                             This module covers the integration of sensors and hardware necessary for robotic systems to perceive and interact with their environments.                              | - Camera<br/> - Lidar                                                                                                  |                       [Link](02_IAAC_Hardware_Drivers)                         |
-| 03  |                        IAAC_Applications                        |                         This module focuses on the various robotic applications that can be developed using the IAAC framework.                           | - 3D Reconstruction<br/> - Navigation                                                                                                   |                                       [Link](03_IAAC_Applications)                                            |
-| 04  |                        IAAC_Codebase                        |                         The IAAC_Codebase module provides a collection of software tools, libraries, and frameworks essential for developing robotic applications.                          | - Computer Vision-Python<br/> - Machine Learning                                                               |                              [Link](04_IAAC_Codebase)                               |
-| 05  |                        IAAC_Tutorials                        |                         This module offers comprehensive educational resources for getting started and mastering the robotics ecosystem.                           | - Linux<br/> - Docker<br/> - Virtual Environment<br/> - Ros<br/>|                              [Link](05_IAAC_Tutorials/)                               |
+| 00  |                     IAAC-templates                      |           Introduction of how to the template.           | Templates | [Link](IAAC-templates)   |
+| 01  |                     IAAC-robots                     |             This module focuses on various robotic platforms available for use. Includes different control mechanisms and configurations.             | - Robotic  Arm<br/> - Mobile Robot<br/> - Drone                                                 |                            [Link](IAAC-robots)                               |
+| 02  |                     IAAC-hardware-drivers                      |                             This module covers the integration of sensors and hardware necessary for robotic systems to perceive and interact with their environments.                              | - Camera<br/> - Lidar                                                                                                  |                       [Link](IAAC-hardware-drivers)                         |
+| 03  |                        IAAC-applications                        |                         This module focuses on the various robotic applications that can be developed using the IAAC framework.                           | - 3D Reconstruction<br/> - Navigation                                                                                                   |                                       [Link](IAAC-applications)                                            |
+| 04  |                        IAAC-codebase                        |                         The IAAC_Codebase module provides a collection of software tools, libraries, and frameworks essential for developing robotic applications.                          | - Computer Vision-Python<br/> - Machine Learning                                                               |                              [Link](IAAC-codebase)                               |
+| 05  |                        IAAC-tutorials                        |                         This module offers comprehensive educational resources for getting started and mastering the robotics ecosystem.                           | - Linux<br/> - Docker<br/> - Virtual Environment<br/> - Ros<br/>|                              [Link](IAAC-tutorials)                               |
 
 
 ## 🧭 Offline access 
@@ -58,35 +58,18 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 ## 📘 PDF
 
-A PDF of all of the lessons can be found [here](https://microsoft.github.io/Web-Dev-For-Beginners/pdf/readme.pdf).
+A PDF of all of the lessons can be found [here]().
 
 
-## 🎒 Other Curricula
+## 🎒 Most recent updated Curricula
 
-Our team produces other curricula! Check out:
+Our team updated our curricula! Check out:
 
-- [AI for Beginners](https://aka.ms/ai-beginners)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners)
-- [Generative AI for Beginners](https://aka.ms/genai-beginners)
-- [**NEW** Cybersecurity for Beginners](https://github.com/microsoft/Security-101??WT.mc_id=academic-96948-sayoung)
-- [IoT for Beginners](https://aka.ms/iot-beginners)
-- [Machine Learning for Beginners](https://aka.ms/ml-beginners)
-- [XR Development for Beginners](https://aka.ms/xr-dev-for-beginners)
-- [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI)
+- [**NEW** Docker](IAAC-tutorials)
+- [**NEW** ROS](IAAC-tutorials)
+- [**NEW** Mobile Robot](IAAC-hardware-drivers)
+
 
 ## License
 
 This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-
-
-
-
-
-
-
-
-
-
-
-
-
