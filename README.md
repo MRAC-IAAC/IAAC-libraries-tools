@@ -66,9 +66,9 @@ A PDF of all of the lessons can be found [here]().
 
 Our team updated our curricula! Check out:
 
-- [**NEW** Docker](IAAC-tutorials)
-- [**NEW** ROS](IAAC-tutorials)
-- [**NEW** Mobile Robot](IAAC-hardware-drivers)
+- **NEW** [Docker](IAAC-tutorials)
+- **NEW** [ROS](IAAC-tutorials)
+- **NEW** [Mobile Robot](IAAC-hardware-drivers)
 
 
 ## License
